@@ -179,4 +179,5 @@ create-tfmg-immersive-creosote-fix/
 # Credits
 
 Created after troubleshooting a Create + TFMG + Immersive Engineering compatibility issue on NeoForge 1.21.1.
+
 Fix discovered and documented by DasTropi.
